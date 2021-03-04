@@ -5,11 +5,11 @@
 - [x] 01-复杂度3 二分查找
 - [x] 02-线性结构1 两个有序链表序列的合并
 - [x] 02-线性结构2 一元多项式的d乘法与加法运算
-- [x] 02-线性结构3 Reversing Ldinked List
+- [ ] 02-线性结构3 Reversing Ldinked List
 - [x] 02-线性结构4 Pop Sequence
-- [ ] 03-树1 树的同构
-- [ ] 03-树2 List Leaves
-- [ ] 03-树3 Tree Traversals Again
+- [x] 03-树1 树的同构
+- [x] 03-树2 List Leaves
+- [x] 03-树3 Tree Traversals Again
 - [ ] 04-树4 是否同一棵二叉搜索树
 - [ ] 04-树5 Root of AVL Tree
 - [ ] 04-树6 Complete Binary Search Tree
