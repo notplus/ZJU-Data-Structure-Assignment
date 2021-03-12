@@ -14,9 +14,9 @@
 - [x] 04-树5 Root of AVL Tree
 - [x] 04-树6 Complete Binary Search Tree
 - [x] 04-树7 二叉搜索树的操作集
-- [ ] 05-树7 堆中的路径
-- [ ] 05-树8 File Transfer
-- [ ] 05-树9 Huffman Codes
+- [x] 05-树7 堆中的路径
+- [x] 05-树8 File Transfer
+- [x] 05-树9 Huffman Codes
 - [ ] 06-图1 列出连通集
 - [ ] 06-图2 Saving James Bond - Easy Version
 - [ ] 06-图3 六度空间
