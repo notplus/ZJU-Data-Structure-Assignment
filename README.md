@@ -17,9 +17,9 @@
 - [x] 05-树7 堆中的路径
 - [x] 05-树8 File Transfer
 - [x] 05-树9 Huffman Codes
-- [ ] 06-图1 列出连通集
-- [ ] 06-图2 Saving James Bond - Easy Version
-- [ ] 06-图3 六度空间
+- [x] 06-图1 列出连通集
+- [x] 06-图2 Saving James Bond - Easy Version
+- [x] 06-图3 六度空间
 - [ ] 07-图4 哈利·波特的考试
 - [ ] 07-图5 Saving James Bond - Hard Version
 - [ ] 07-图6 旅游规划
