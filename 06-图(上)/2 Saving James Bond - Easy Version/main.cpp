@@ -75,7 +75,7 @@ void buildGraph(MGraph *graph, int D)
     graph->vex[graph->vexnum + 1] = land;
     for (int i = 0; i < graph->vexnum; i++)
     {
-        if (computeDist(graph->vex[i], origin) <= 15/2 + D)
+        if (computeDist(graph->vex[i], origin) <= 7.5 + D)
             addEdge(graph, i, graph->vexnum);
         if (isConnectToLand(graph, graph->vex[i], D))
             addEdge(graph, i, graph->vexnum + 1);

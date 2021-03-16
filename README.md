@@ -20,9 +20,9 @@
 - [x] 06-图1 列出连通集
 - [x] 06-图2 Saving James Bond - Easy Version
 - [x] 06-图3 六度空间
-- [ ] 07-图4 哈利·波特的考试
-- [ ] 07-图5 Saving James Bond - Hard Version
-- [ ] 07-图6 旅游规划
+- [x] 07-图4 哈利·波特的考试
+- [x] 07-图5 Saving James Bond - Hard Version
+- [x] 07-图6 旅游规划
 - [ ] 08-图7 公路村村通
 - [ ] 08-图8 How Long Does It Take
 - [ ] 08-图9 关键活动
