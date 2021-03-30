@@ -26,9 +26,9 @@
 - [x] 08-图7 公路村村通
 - [x] 08-图8 How Long Does It Take
 - [x] 08-图9 关键活动
-- [ ] 09-排序1 排序
-- [ ] 09-排序2 Insert or Merge
-- [ ] 09-排序3 Insertion or Heap Sort
+- [x] 09-排序1 排序
+- [x] 09-排序2 Insert or Merge
+- [x] 09-排序3 Insertion or Heap Sort
 - [ ] 10-排序4 统计工龄
 - [ ] 10-排序5 PAT Judge
 - [ ] 10-排序6 Sort with Swap(0, i)
