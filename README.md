@@ -29,9 +29,9 @@
 - [x] 09-排序1 排序
 - [x] 09-排序2 Insert or Merge
 - [x] 09-排序3 Insertion or Heap Sort
-- [ ] 10-排序4 统计工龄
-- [ ] 10-排序5 PAT Judge
-- [ ] 10-排序6 Sort with Swap(0, i)
+- [x] 10-排序4 统计工龄
+- [x] 10-排序5 PAT Judge
+- [x] 10-排序6 Sort with Swap(0, i)
 - [ ] 11-散列1 电话聊天狂人
 - [ ] 11-散列2 Hashing
 - [ ] 11-散列3 QQ帐户的申请与登陆
